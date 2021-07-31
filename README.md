@@ -12,6 +12,6 @@
     Random Light
     
 # Video
-![Youtube Video](https://youtu.be/e0SPH9bxJ0k)
+[![Youtube Video](https://img.shields.io/badge/Youtube Video-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://youtu.be/e0SPH9bxJ0k)
 
 ***
